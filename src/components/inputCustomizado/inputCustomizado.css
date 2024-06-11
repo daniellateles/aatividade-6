@@ -1,0 +1,10 @@
+#inputCustom {
+    background-color: transparent;
+    border-radius: 10px;
+    padding: 1rem;
+
+    border: 1px solid #ff6464;
+
+    font-size: 1rem;
+    font-weight: 700;
+}

@@ -1,0 +1,26 @@
+ li {
+    list-style: none;
+}
+
+.label_tarefa {
+    font-weight: bold;
+}
+
+section {
+    margin-left: 2%;
+}
+
+.add{
+    margin-left: 10%;
+}
+
+.btn-inserir{
+    background-color: blue;
+    color: white;
+}
+
+.btn-red {
+    background-color: red;
+    margin: 10px 0;
+    color: white;
+}
